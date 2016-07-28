@@ -4,16 +4,16 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
+title:               阳阳
 tagline:             'Since 2016.2.18'
 description:         'Website to record the bright life of yang yang.'
 url:                 https://initlove.github.io
-baseurl:             ''
+baseurl:             'https://initlove.github.io'
 paginate:            5
 
 # About/contact
 author:
-  name:              yang yang's family
+  name:              我们都爱阳阳
   url:               initlove.github.io
   email:             liangchenye@gmail.com
 
