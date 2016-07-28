@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Lanyon
+tagline:             'Since 2016.2.18'
+description:         'Website to record the bright life of yang yang.'
+url:                 https://initlove.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              yang yang's family
+  url:               initlove.github.io
+  email:             liangchenye@gmail.com
+
+# Custom vars
+version:             0.1.0
